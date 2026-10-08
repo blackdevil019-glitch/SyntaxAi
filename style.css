@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.slide {
+  background-color: #064b91;
+  color: white;
+  padding: 2px;
+  text-align: center;
+}
+.header {
+  background-color:#dceeff;
+  color: #064b91;
+  padding: 30px;
+  text-align: center;
+}
+.key {
+  text-align: center;
+  color: #064b91;
+  padding: 30px;
+}
+.middle {
+  background-color: #064b91;
+  color: #dceeff;
+  padding: 70px;
+  text-align: center;
+}
+button {
+  background-color: lightblue;
+  border-radius: 50px;
+}
+h1 {
+  color: #064b91;
+}
+table {
+  width: 900px;
+  border-spacing: 2px;
+}
+th {
+  background-color: #064b91;
+  color: white;
+  padding: 12px;
+}
+td {
+  border: 1px soild lightblue;
+  padding: 12px;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  background-color: #064b91;
+  padding: 20px;
+  color: white;
+}
+img {
+  width: 1646px;
+  height: 650px;
+}
+.why {
+  text-align: center;
+  background-color: #064b91;
+  padding: 10px;
+  color: white;
+}
+.last {
+  background-color: #064b91;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
